@@ -13,7 +13,7 @@
 <ul>
     <li><b>Education:</b> Bachelor of Engineering, Kavikulguru Institute Of Technology And Science </li>
     <li><b>Hometown: </b> Nagpur, Maharashtra</li>
-    <li><b>Website:  </b> <a href="chetantete.github.io/">chetantete.github.io</a></li>
+    <li><b>Website:  </b> <a href="https://chetantete.github.io/">chetantete.github.io</a></li>
     <li><b>LinkedIn:  </b> <a href="https://www.linkedin.com/in/chetantete/">https://www.linkedin.com/in/chetantete</a></li>
 </ul>
 
